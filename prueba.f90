@@ -10,5 +10,5 @@ program prueba
     end do
     
     print *, "La suma de los primeros 10 términos de la serie armónica es:", x
-    
+    print *, "Fin del programa."
 end program prueba
