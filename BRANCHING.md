@@ -140,3 +140,9 @@ git push origin --delete feature/your-feature-name
 
 Maintained for **AVMD project contributors**  
 _Last updated: November 2025_
+
+
+
+
+We can FIND THIS in the course notebooks!!
+
