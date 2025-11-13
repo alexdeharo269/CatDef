@@ -9,6 +9,6 @@ program prueba
          x = x + 1.0 / real(i)
     end do
     
-    print *, "La suma de los primeros 10 términos de la serie armónica es:", x
+    print *, "La suma de los primeros 10 terminos de la serie armonica es:", x
     print *, "Fin del programa."
 end program prueba
