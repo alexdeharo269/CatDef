@@ -91,3 +91,12 @@ Data files are also licensed under the **MIT License** unless otherwise stated.
 ## Contact
 
 For questions or further details, please contact the project contributors through GitHub.
+
+---
+
+## Contributors (with github id)
+Alejandro de Haro García: alexdeharo269
+Germán González Rojo: germanrojo02
+Eulàlia Canals Martí: 4ul4li4
+Javier Fernández MArtín: 
+Jan Lewenstein Sanpera : janlewen2700
