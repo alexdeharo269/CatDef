@@ -96,7 +96,11 @@ For questions or further details, please contact the project contributors throug
 
 ## Contributors (with github id)
 Alejandro de Haro García: alexdeharo269
+
 Germán González Rojo: germanrojo02
+
 Eulàlia Canals Martí: 4ul4li4
-Javier Fernández MArtín: 
+
+Javier Fernández Martín: Javi-fdez
+
 Jan Lewenstein Sanpera : janlewen2700
